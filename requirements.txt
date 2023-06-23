@@ -1,0 +1,8 @@
+uvicorn
+msal
+starlette
+fastapi
+fastapi_msal[full]
+pydantic[dotenv]
+jinja2
+httpx
